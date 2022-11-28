@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Line Art Monkey',
+    pageLink: './Art/LineArtMonkey/index.html',
+    imageLink: './Art/LineArtMonkey/index.gif',
+    author: 'LineArt',
+    githubLink: 'https://github.com/rPaulius'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
